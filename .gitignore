@@ -1,0 +1,8 @@
+# Zephyr/Ninja build outputs
+build/
+
+# Editor settings
+.vscode/
+
+# macOS files
+.DS_Store
